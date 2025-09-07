@@ -8,6 +8,7 @@ shield by shield
 im better
 learning hard
 
+
 crazy placement
 with no money
 im tired
@@ -17,3 +18,8 @@ two more lines
 learning conflicts
 how to solve them
 thats be no fleaks
+
+now im changing
+this file in braches
+to see the conflict
+and how to solve it
