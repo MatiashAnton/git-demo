@@ -12,3 +12,8 @@ now im branching
 thats something new
 im gonna learn git faster
 to get the job
+
+im adding another changes
+to see whats happen now
+because im learning branches
+to see what do and how
